@@ -75,4 +75,4 @@ npm start
 
 ## 👨‍💻 Author
 
-Ayush Shrivastav
+Ayush Shrivastava
